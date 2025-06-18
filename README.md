@@ -2,6 +2,8 @@
 
 An intelligent, voice-interactive pill dispenser that ensures timely medication using Arduino and a fine-tuned GPT-2 model. This system supports scheduled pill delivery, voice commands, and AI-based health query handling.
 
+Youtube link: https://www.youtube.com/watch?v=bo0DdjGiL6c&ab_channel=BhavyanshiKarela
+
 ## 🚀 Features
 
 - **Scheduled Pill Dispensing:** Uses RTC module to release pills at specific times using a servo motor.
